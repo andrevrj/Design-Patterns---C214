@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32516.85
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Questao2", "Questao2.csproj", "{80502573-BA02-4893-A737-F6673A4D77A9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Questao2Test", "..\Questao2Test\Questao2Test.csproj", "{50B611EA-5BFD-42C1-91CB-E9439EA20EC4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{80502573-BA02-4893-A737-F6673A4D77A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80502573-BA02-4893-A737-F6673A4D77A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80502573-BA02-4893-A737-F6673A4D77A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80502573-BA02-4893-A737-F6673A4D77A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50B611EA-5BFD-42C1-91CB-E9439EA20EC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50B611EA-5BFD-42C1-91CB-E9439EA20EC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50B611EA-5BFD-42C1-91CB-E9439EA20EC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50B611EA-5BFD-42C1-91CB-E9439EA20EC4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3C568718-9A0A-44EB-9539-BBF8C0949DF4}
+	EndGlobalSection
+EndGlobal
